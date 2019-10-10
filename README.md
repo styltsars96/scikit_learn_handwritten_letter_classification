@@ -1,0 +1,2 @@
+# scikit_learn_handwritten_letter_classification
+Handwritten letter classification example using SciKit-Learn
